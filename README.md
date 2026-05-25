@@ -75,4 +75,4 @@ Open an issue in this repo with:
 
 Do not post Telegram invite links, bot tokens, private DNS tokens, Cloudflare API tokens, or customer data in public issues.
 
-For sensitive access questions, use private contact with Frisky Developments.
+For sensitive access questions, use private contact with Frisky Developments. See [SECURITY.md](SECURITY.md) for the full policy and scope.
